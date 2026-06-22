@@ -4,7 +4,7 @@
 
 ## 公開
 
-GitHub Pages: **https://furuhashilab.github.io/2026-/**
+GitHub Pages: **[https://furuhashilab.github.io/2026-/](https://furuhashilab.github.io/Drone-hachathon/#scene-1)**
 
 依存するビルド工程はありません。静的ファイルをリポジトリ直下から配信します。
 
